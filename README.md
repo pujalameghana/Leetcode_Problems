@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/pujalameghana/Leetcode_Problems/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/pujalameghana/Leetcode_Problems/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/pujalameghana/Leetcode_Problems/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/pujalameghana/Leetcode_Problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2722-prime-in-diagonal](https://github.com/pujalameghana/Leetcode_Problems/tree/master/2722-prime-in-diagonal) |
 | [2737-row-with-maximum-ones](https://github.com/pujalameghana/Leetcode_Problems/tree/master/2737-row-with-maximum-ones) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/pujalameghana/Leetcode_Problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/pujalameghana/Leetcode_Problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/pujalameghana/Leetcode_Problems/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/pujalameghana/Leetcode_Problems/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/pujalameghana/Leetcode_Problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Tree
 |  |
 | ------- |
@@ -157,4 +159,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2722-prime-in-diagonal](https://github.com/pujalameghana/Leetcode_Problems/tree/master/2722-prime-in-diagonal) |
+## Brainteaser
+|  |
+| ------- |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/pujalameghana/Leetcode_Problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 <!---LeetCode Topics End-->
