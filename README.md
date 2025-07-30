@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/pujalameghana/Leetcode_Problems/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/pujalameghana/Leetcode_Problems/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/pujalameghana/Leetcode_Problems/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [2722-prime-in-diagonal](https://github.com/pujalameghana/Leetcode_Problems/tree/master/2722-prime-in-diagonal) |
 | [2737-row-with-maximum-ones](https://github.com/pujalameghana/Leetcode_Problems/tree/master/2737-row-with-maximum-ones) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/pujalameghana/Leetcode_Problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/pujalameghana/Leetcode_Problems/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0268-missing-number) |
+| [2722-prime-in-diagonal](https://github.com/pujalameghana/Leetcode_Problems/tree/master/2722-prime-in-diagonal) |
 ## Two Pointers
 |  |
 | ------- |
@@ -149,5 +151,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0048-rotate-image) |
+| [2722-prime-in-diagonal](https://github.com/pujalameghana/Leetcode_Problems/tree/master/2722-prime-in-diagonal) |
 | [2737-row-with-maximum-ones](https://github.com/pujalameghana/Leetcode_Problems/tree/master/2737-row-with-maximum-ones) |
+## Number Theory
+|  |
+| ------- |
+| [2722-prime-in-diagonal](https://github.com/pujalameghana/Leetcode_Problems/tree/master/2722-prime-in-diagonal) |
 <!---LeetCode Topics End-->
