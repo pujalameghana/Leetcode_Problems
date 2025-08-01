@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0027-remove-element) |
 | [0048-rotate-image](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0118-pascals-triangle) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0054-spiral-matrix) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/pujalameghana/Leetcode_Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Counting
 |  |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0054-spiral-matrix) |
 | [2722-prime-in-diagonal](https://github.com/pujalameghana/Leetcode_Problems/tree/master/2722-prime-in-diagonal) |
 | [2737-row-with-maximum-ones](https://github.com/pujalameghana/Leetcode_Problems/tree/master/2737-row-with-maximum-ones) |
 | [3330-modify-the-matrix](https://github.com/pujalameghana/Leetcode_Problems/tree/master/3330-modify-the-matrix) |
