@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0485-max-consecutive-ones) |
+| [0907-koko-eating-bananas](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0907-koko-eating-bananas) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0940-fruit-into-baskets) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/pujalameghana/Leetcode_Problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0162-find-peak-element](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0268-missing-number) |
+| [0907-koko-eating-bananas](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0907-koko-eating-bananas) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/pujalameghana/Leetcode_Problems/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/pujalameghana/Leetcode_Problems/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3790-fruits-into-baskets-ii](https://github.com/pujalameghana/Leetcode_Problems/tree/master/3790-fruits-into-baskets-ii) |
