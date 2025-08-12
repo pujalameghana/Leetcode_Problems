@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0189-rotate-array) |
+| [0219-contains-duplicate-ii](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0485-max-consecutive-ones) |
 | [0907-koko-eating-bananas](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0907-koko-eating-bananas) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0169-majority-element) |
+| [0219-contains-duplicate-ii](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0268-missing-number) |
 | [0900-reordered-power-of-2](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0940-fruit-into-baskets) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0219-contains-duplicate-ii) |
 | [0940-fruit-into-baskets](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0940-fruit-into-baskets) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/pujalameghana/Leetcode_Problems/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/pujalameghana/Leetcode_Problems/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
