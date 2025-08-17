@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0152-maximum-product-subarray) |
+| [0867-new-21-game](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0867-new-21-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/pujalameghana/Leetcode_Problems/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/pujalameghana/Leetcode_Problems/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0342-power-of-four) |
+| [0867-new-21-game](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0900-reordered-power-of-2) |
 | [1448-maximum-69-number](https://github.com/pujalameghana/Leetcode_Problems/tree/master/1448-maximum-69-number) |
 | [2722-prime-in-diagonal](https://github.com/pujalameghana/Leetcode_Problems/tree/master/2722-prime-in-diagonal) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0219-contains-duplicate-ii) |
+| [0867-new-21-game](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0867-new-21-game) |
 | [0940-fruit-into-baskets](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0940-fruit-into-baskets) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/pujalameghana/Leetcode_Problems/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/pujalameghana/Leetcode_Problems/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
@@ -244,4 +247,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0326-power-of-three](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0342-power-of-four) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0867-new-21-game](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0867-new-21-game) |
 <!---LeetCode Topics End-->
