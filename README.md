@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0485-max-consecutive-ones) |
+| [0679-24-game](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0679-24-game) |
 | [0682-baseball-game](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0682-baseball-game) |
 | [0907-koko-eating-bananas](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0907-koko-eating-bananas) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0342-power-of-four) |
+| [0679-24-game](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0679-24-game) |
 | [0867-new-21-game](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0900-reordered-power-of-2) |
 | [1448-maximum-69-number](https://github.com/pujalameghana/Leetcode_Problems/tree/master/1448-maximum-69-number) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0679-24-game](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0679-24-game) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/pujalameghana/Leetcode_Problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Binary Search
 |  |
