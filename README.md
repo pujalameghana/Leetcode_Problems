@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0485-max-consecutive-ones) |
+| [0643-maximum-average-subarray-i](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0679-24-game](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0679-24-game) |
 | [0682-baseball-game](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0682-baseball-game) |
 | [0907-koko-eating-bananas](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0907-koko-eating-bananas) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0219-contains-duplicate-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0867-new-21-game](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0867-new-21-game) |
 | [0940-fruit-into-baskets](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0940-fruit-into-baskets) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/pujalameghana/Leetcode_Problems/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
