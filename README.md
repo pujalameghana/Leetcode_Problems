@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0907-koko-eating-bananas) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0940-fruit-into-baskets) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/pujalameghana/Leetcode_Problems/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/pujalameghana/Leetcode_Problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/pujalameghana/Leetcode_Problems/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/pujalameghana/Leetcode_Problems/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0152-maximum-product-subarray) |
 | [0867-new-21-game](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0867-new-21-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0934-bitwise-ors-of-subarrays) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/pujalameghana/Leetcode_Problems/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/pujalameghana/Leetcode_Problems/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/pujalameghana/Leetcode_Problems/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Greedy
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0054-spiral-matrix) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/pujalameghana/Leetcode_Problems/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2722-prime-in-diagonal](https://github.com/pujalameghana/Leetcode_Problems/tree/master/2722-prime-in-diagonal) |
 | [2737-row-with-maximum-ones](https://github.com/pujalameghana/Leetcode_Problems/tree/master/2737-row-with-maximum-ones) |
 | [3330-modify-the-matrix](https://github.com/pujalameghana/Leetcode_Problems/tree/master/3330-modify-the-matrix) |
