@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0485-max-consecutive-ones) |
+| [0498-diagonal-traverse](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0498-diagonal-traverse) |
 | [0643-maximum-average-subarray-i](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0679-24-game](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0679-24-game) |
 | [0682-baseball-game](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0682-baseball-game) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0054-spiral-matrix) |
+| [0498-diagonal-traverse](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0498-diagonal-traverse) |
 | [0682-baseball-game](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0682-baseball-game) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/pujalameghana/Leetcode_Problems/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/pujalameghana/Leetcode_Problems/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0054-spiral-matrix) |
+| [0498-diagonal-traverse](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0498-diagonal-traverse) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/pujalameghana/Leetcode_Problems/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/pujalameghana/Leetcode_Problems/tree/master/1628-count-submatrices-with-all-ones) |
 | [2722-prime-in-diagonal](https://github.com/pujalameghana/Leetcode_Problems/tree/master/2722-prime-in-diagonal) |
