@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0118-pascals-triangle) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0032-longest-valid-parentheses) |
 | [0214-shortest-palindrome](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0214-shortest-palindrome) |
 | [0812-rotate-string](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0812-rotate-string) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/pujalameghana/Leetcode_Problems/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0032-longest-valid-parentheses) |
 | [0682-baseball-game](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0682-baseball-game) |
 | [1628-count-submatrices-with-all-ones](https://github.com/pujalameghana/Leetcode_Problems/tree/master/1628-count-submatrices-with-all-ones) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/pujalameghana/Leetcode_Problems/tree/master/1818-maximum-score-from-removing-substrings) |
