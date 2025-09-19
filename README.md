@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0907-koko-eating-bananas) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0940-fruit-into-baskets) |
+| [1036-rotting-oranges](https://github.com/pujalameghana/Leetcode_Problems/tree/master/1036-rotting-oranges) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/pujalameghana/Leetcode_Problems/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/pujalameghana/Leetcode_Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/pujalameghana/Leetcode_Problems/tree/master/1628-count-submatrices-with-all-ones) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0054-spiral-matrix) |
 | [0498-diagonal-traverse](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0498-diagonal-traverse) |
+| [1036-rotting-oranges](https://github.com/pujalameghana/Leetcode_Problems/tree/master/1036-rotting-oranges) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/pujalameghana/Leetcode_Problems/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/pujalameghana/Leetcode_Problems/tree/master/1628-count-submatrices-with-all-ones) |
 | [2722-prime-in-diagonal](https://github.com/pujalameghana/Leetcode_Problems/tree/master/2722-prime-in-diagonal) |
@@ -305,4 +307,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/pujalameghana/Leetcode_Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1036-rotting-oranges](https://github.com/pujalameghana/Leetcode_Problems/tree/master/1036-rotting-oranges) |
 <!---LeetCode Topics End-->
