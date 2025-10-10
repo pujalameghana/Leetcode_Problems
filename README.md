@@ -287,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0203-remove-linked-list-elements) |
 | [0326-power-of-three](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0342-power-of-four) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/pujalameghana/Leetcode_Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -317,5 +318,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0203-remove-linked-list-elements) |
 | [0908-middle-of-the-linked-list](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0908-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
