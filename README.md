@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0679-24-game](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0679-24-game) |
 | [0682-baseball-game](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0682-baseball-game) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0907-koko-eating-bananas](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0907-koko-eating-bananas) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0940-fruit-into-baskets) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0152-maximum-product-subarray) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0867-new-21-game](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0867-new-21-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/pujalameghana/Leetcode_Problems/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0342-power-of-four) |
 | [0693-binary-number-with-alternating-bits](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0693-binary-number-with-alternating-bits) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/pujalameghana/Leetcode_Problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/pujalameghana/Leetcode_Problems/tree/master/2400-minimum-score-after-removals-on-a-tree) |
@@ -211,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0679-24-game](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0679-24-game) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/pujalameghana/Leetcode_Problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Binary Search
 |  |
@@ -227,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0070-climbing-stairs) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Sliding Window
 |  |
 | ------- |
@@ -323,4 +328,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0203-remove-linked-list-elements](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0203-remove-linked-list-elements) |
 | [0908-middle-of-the-linked-list](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0908-middle-of-the-linked-list) |
+## Bitmask
+|  |
+| ------- |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0698-partition-to-k-equal-sum-subsets) |
 <!---LeetCode Topics End-->
