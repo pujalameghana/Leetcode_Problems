@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0189-rotate-array) |
+| [0528-swapping-nodes-in-a-linked-list](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0908-middle-of-the-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/pujalameghana/Leetcode_Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Hash Table
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0203-remove-linked-list-elements](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0203-remove-linked-list-elements) |
+| [0528-swapping-nodes-in-a-linked-list](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0908-middle-of-the-linked-list) |
 ## Bitmask
 |  |
