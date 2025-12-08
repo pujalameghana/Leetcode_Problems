@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0032-longest-valid-parentheses) |
+| [0072-edit-distance](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0072-edit-distance) |
 | [0214-shortest-palindrome](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0214-shortest-palindrome) |
 | [0812-rotate-string](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0812-rotate-string) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/pujalameghana/Leetcode_Problems/tree/master/1818-maximum-score-from-removing-substrings) |
