@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0528-swapping-nodes-in-a-linked-list) |
+| [0696-count-binary-substrings](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0696-count-binary-substrings) |
 | [0905-sort-array-by-parity](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0905-sort-array-by-parity) |
 | [0908-middle-of-the-linked-list](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0908-middle-of-the-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/pujalameghana/Leetcode_Problems/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0097-interleaving-string) |
 | [0214-shortest-palindrome](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0214-shortest-palindrome) |
+| [0696-count-binary-substrings](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0696-count-binary-substrings) |
 | [0812-rotate-string](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0812-rotate-string) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/pujalameghana/Leetcode_Problems/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/pujalameghana/Leetcode_Problems/tree/master/2076-sum-of-digits-of-string-after-convert) |
