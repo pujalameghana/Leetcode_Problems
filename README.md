@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0342-power-of-four) |
 | [0693-binary-number-with-alternating-bits](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0693-binary-number-with-alternating-bits) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0868-binary-gap](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0868-binary-gap) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/pujalameghana/Leetcode_Problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/pujalameghana/Leetcode_Problems/tree/master/2400-minimum-score-after-removals-on-a-tree) |
