@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0349-intersection-of-two-arrays) |
+| [0427-construct-quad-tree](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0427-construct-quad-tree) |
 | [0485-max-consecutive-ones](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0485-max-consecutive-ones) |
 | [0498-diagonal-traverse](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0498-diagonal-traverse) |
 | [0643-maximum-average-subarray-i](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0643-maximum-average-subarray-i) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0169-majority-element) |
+| [0427-construct-quad-tree](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0427-construct-quad-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0427-construct-quad-tree](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0427-construct-quad-tree) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/pujalameghana/Leetcode_Problems/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 ## Depth-First Search
 |  |
@@ -299,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0064-minimum-path-sum) |
+| [0427-construct-quad-tree](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0427-construct-quad-tree) |
 | [0498-diagonal-traverse](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0498-diagonal-traverse) |
 | [1036-rotting-oranges](https://github.com/pujalameghana/Leetcode_Problems/tree/master/1036-rotting-oranges) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/pujalameghana/Leetcode_Problems/tree/master/1402-count-square-submatrices-with-all-ones) |
