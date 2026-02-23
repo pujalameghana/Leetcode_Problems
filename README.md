@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0053-maximum-subarray) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0169-majority-element) |
 | [0427-construct-quad-tree](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0427-construct-quad-tree) |
 ## Dynamic Programming
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0427-construct-quad-tree](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0427-construct-quad-tree) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/pujalameghana/Leetcode_Problems/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 ## Depth-First Search
@@ -390,4 +393,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0062-unique-paths) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
