@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/pujalameghana/Leetcode_Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/pujalameghana/Leetcode_Problems/tree/master/1628-count-submatrices-with-all-ones) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/pujalameghana/Leetcode_Problems/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/pujalameghana/Leetcode_Problems/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/pujalameghana/Leetcode_Problems/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Greedy
 |  |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/pujalameghana/Leetcode_Problems/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2529-range-product-queries-of-powers](https://github.com/pujalameghana/Leetcode_Problems/tree/master/2529-range-product-queries-of-powers) |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/pujalameghana/Leetcode_Problems/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/pujalameghana/Leetcode_Problems/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Backtracking
 |  |
