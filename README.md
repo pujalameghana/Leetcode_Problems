@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0940-fruit-into-baskets) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/pujalameghana/Leetcode_Problems/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1796-second-largest-digit-in-a-string](https://github.com/pujalameghana/Leetcode_Problems/tree/master/1796-second-largest-digit-in-a-string) |
 | [2689-rearranging-fruits](https://github.com/pujalameghana/Leetcode_Problems/tree/master/2689-rearranging-fruits) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/pujalameghana/Leetcode_Problems/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/pujalameghana/Leetcode_Problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0214-shortest-palindrome](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0214-shortest-palindrome) |
 | [0696-count-binary-substrings](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0696-count-binary-substrings) |
 | [0812-rotate-string](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0812-rotate-string) |
+| [1796-second-largest-digit-in-a-string](https://github.com/pujalameghana/Leetcode_Problems/tree/master/1796-second-largest-digit-in-a-string) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/pujalameghana/Leetcode_Problems/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/pujalameghana/Leetcode_Problems/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/pujalameghana/Leetcode_Problems/tree/master/2346-largest-3-same-digit-number-in-string) |
