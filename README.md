@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1392-find-the-difference-of-two-arrays](https://github.com/pujalameghana/Leetcode_Problems/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1796-second-largest-digit-in-a-string](https://github.com/pujalameghana/Leetcode_Problems/tree/master/1796-second-largest-digit-in-a-string) |
 | [2689-rearranging-fruits](https://github.com/pujalameghana/Leetcode_Problems/tree/master/2689-rearranging-fruits) |
+| [2716-minimize-string-length](https://github.com/pujalameghana/Leetcode_Problems/tree/master/2716-minimize-string-length) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/pujalameghana/Leetcode_Problems/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/pujalameghana/Leetcode_Problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Bit Manipulation
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1818-maximum-score-from-removing-substrings](https://github.com/pujalameghana/Leetcode_Problems/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/pujalameghana/Leetcode_Problems/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/pujalameghana/Leetcode_Problems/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [2716-minimize-string-length](https://github.com/pujalameghana/Leetcode_Problems/tree/master/2716-minimize-string-length) |
 ## String Matching
 |  |
 | ------- |
