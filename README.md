@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2689-rearranging-fruits](https://github.com/pujalameghana/Leetcode_Problems/tree/master/2689-rearranging-fruits) |
 | [2722-prime-in-diagonal](https://github.com/pujalameghana/Leetcode_Problems/tree/master/2722-prime-in-diagonal) |
 | [2737-row-with-maximum-ones](https://github.com/pujalameghana/Leetcode_Problems/tree/master/2737-row-with-maximum-ones) |
+| [2784-check-if-array-is-good](https://github.com/pujalameghana/Leetcode_Problems/tree/master/2784-check-if-array-is-good) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/pujalameghana/Leetcode_Problems/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3330-modify-the-matrix](https://github.com/pujalameghana/Leetcode_Problems/tree/master/3330-modify-the-matrix) |
 | [3398-make-a-square-with-the-same-color](https://github.com/pujalameghana/Leetcode_Problems/tree/master/3398-make-a-square-with-the-same-color) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1796-second-largest-digit-in-a-string](https://github.com/pujalameghana/Leetcode_Problems/tree/master/1796-second-largest-digit-in-a-string) |
 | [2689-rearranging-fruits](https://github.com/pujalameghana/Leetcode_Problems/tree/master/2689-rearranging-fruits) |
 | [2716-minimize-string-length](https://github.com/pujalameghana/Leetcode_Problems/tree/master/2716-minimize-string-length) |
+| [2784-check-if-array-is-good](https://github.com/pujalameghana/Leetcode_Problems/tree/master/2784-check-if-array-is-good) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/pujalameghana/Leetcode_Problems/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/pujalameghana/Leetcode_Problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Bit Manipulation
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0900-reordered-power-of-2) |
 | [0905-sort-array-by-parity](https://github.com/pujalameghana/Leetcode_Problems/tree/master/0905-sort-array-by-parity) |
 | [2689-rearranging-fruits](https://github.com/pujalameghana/Leetcode_Problems/tree/master/2689-rearranging-fruits) |
+| [2784-check-if-array-is-good](https://github.com/pujalameghana/Leetcode_Problems/tree/master/2784-check-if-array-is-good) |
 ## Segment Tree
 |  |
 | ------- |
